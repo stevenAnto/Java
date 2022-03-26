@@ -18,10 +18,13 @@ public class  Char{
 	legal=false;
       }
     }
-      if(legal){
-	System.out.println("su linea es validad");
-      }else{
-	System.out.println("Sorry, "+line+" es wrong");
-      }
+    if(legal){
+      System.out.println("su linea es validad");
+    }else{
+      System.out.println("Sorry, "+line+" es wrong");
+    }
+  }
+  public static void(){
+    System.out.println("se agrego esta lineas mas solo para probar");
   }
 }
