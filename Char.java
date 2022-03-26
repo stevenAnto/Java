@@ -27,4 +27,7 @@ public class  Char{
   public static void(){
     System.out.println("se agrego esta lineas mas solo para probar");
   }
+  public static void nuevaLinea(){
+
+  }
 }
